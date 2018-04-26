@@ -8,7 +8,7 @@ public class HexTile : MonoBehaviour {
     public Owners owner;
 	// Use this for initialization
 	void Start () {
-        owner = new 
+        owner = 
 	}
 	
 	// Update is called once per frame
